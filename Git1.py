@@ -5,3 +5,5 @@ try:
 except ValueError:
     print("Введены некорректные данные")
 print("Cheking Git functions")
+print("Cheking Git branches")
+print("Cheking Git branches one more time")
