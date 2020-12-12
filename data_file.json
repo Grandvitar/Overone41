@@ -1,0 +1,45 @@
+[
+        {
+            "name": "Alex",
+            "last_name": "Smith",
+            "age": 32,
+            "profession": "engineer",
+            "city": "Minsk"
+        },
+
+        {
+            "name": "Petr",
+            "last_name": "Black",
+            "age": 36,
+            "profession": "engineer",
+            "city": "Gomel"
+        },
+        {
+            "name": "Bob",
+            "last_name": "Brent",
+            "age": 37,
+            "profession": "manager",
+            "city": "Moscow"
+        },
+        {
+            "name": "Paul",
+            "last_name": "brown",
+            "age": 36,
+            "profession": "director",
+            "city": "Minsk"
+        },
+        {
+            "name": "Henry",
+            "last_name": "Blum",
+            "age": 32,
+            "profession": "director",
+            "city": "Gomel"
+        },
+        {
+            "name": "Roy",
+            "last_name": "Robson",
+            "age": 36,
+            "profession": "manager",
+            "city": "Minsk"
+        }
+]
