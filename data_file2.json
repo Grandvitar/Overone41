@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Alex",
+        "last_name": "Qqqqq",
+        "salary": 390,
+        "age": 22,
+        "position": "учитель"
+    },
+    {
+        "id": 2,
+        "name": "Alex",
+        "last_name": "Qqqqq",
+        "salary": 390,
+        "age": 22,
+        "position": "учитель"
+    },
+    {
+        "id": 3,
+        "name": "Alex",
+        "last_name": "Qqqqq",
+        "salary": 390,
+        "age": 22,
+        "position": "учитель"
+    }
+]

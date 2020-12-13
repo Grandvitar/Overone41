@@ -3,8 +3,9 @@ with open('data_file.json') as file:
     info = json.loads(file.read())
 prof = []
 for i in range(len(info)):
-    prof.append(info[i].get("profession"))
-prof = list(set(prof))
+    if info[i].get("profession") not in prof:
+        prof.append(info[i].get("profession"))
+print(prof)
 for i in range(len(prof)):
     s = prof[i]
     m = []
